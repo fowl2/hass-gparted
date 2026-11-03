@@ -1,1 +1,0 @@
-FROM jlesage/gparted:latest
