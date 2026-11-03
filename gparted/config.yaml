@@ -1,5 +1,5 @@
 name: "GParted Web UI"
-version: "1.0.1"
+version: "1.0.2"
 slug: "gparted_web"
 description: "GParted Partition Manager with a Web UI. Format and manage physical drives."
 arch:
