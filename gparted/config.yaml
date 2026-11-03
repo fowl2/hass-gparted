@@ -15,5 +15,5 @@ privileged:
   - SYS_ADMIN
   - SYS_RAWIO
 full_access: true
-apparmor: unconfined
+apparmor: false
 host_pid: true
